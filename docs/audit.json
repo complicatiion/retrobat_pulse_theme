@@ -1,0 +1,13 @@
+{
+  "package": "retrobat_pulse_theme_es-de",
+  "audit_date": "2026-09-22",
+  "theme_format": 7,
+  "changes": [
+    "keep controllerActivity",
+    "keep batteryIndicator",
+    "remove menuText.scrollSound",
+    "fix grid md_rating type text->rating",
+    "fix subset duplicate names mix9/mix10",
+    "remove redundant undefined ifSubset maxLogoCount"
+  ]
+}
